@@ -1,0 +1,25 @@
+body{
+background-color: #f5d7b2;
+font-family: Arial;
+text-align: center;
+}
+
+h1{
+color: brown;
+}
+
+h2{
+color: darkred;
+}
+
+p{
+width: 60%;
+margin: auto;
+}
+
+img{
+width: 250px;
+height: 200px;
+margin: 10px;
+object-fit: cover;
+}
